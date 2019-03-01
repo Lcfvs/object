@@ -27,9 +27,9 @@ console.log(together.prototyped && together.assigned && together.together) // tr
 ```js
 /**
  * Clones the prototype and assigns the extensions on it
- * @param {object} [prototype={}]
+ * @param {object|null} [prototype=null]
  * @param {...object} extensions
- * @return {object&null}
+ * @return {object&(prototype|null)}
  */
 import object from '@lcf.vs/object'
 

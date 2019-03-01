@@ -1,0 +1,26 @@
+{
+  "name": "@lcf.vs/object",
+  "version": "1.0.0",
+  "description": "An utility to create an object and assign at once",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcfvs/object.git"
+  },
+  "keywords": [
+    "create",
+    "object",
+    "assign",
+    "at",
+    "once"
+  ],
+  "author": "lcf.vs <michael.rouges@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/object/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/object#readme"
+}

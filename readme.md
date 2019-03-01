@@ -38,4 +38,4 @@ const obj = object(prototype || null, ...extensions)
 
 ## <a name="license">License</a>
 
-[MIT](https://github.com/Lcfvs/anticore/blob/master/licence.md)
+[MIT](https://github.com/Lcfvs/object/blob/master/licence.md)
